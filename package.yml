@@ -1,5 +1,5 @@
 package: community.lazycat.app.lexfridman-cn
-version: 1.0.1
+version: 1.0.2
 name: Lex Fridman CN
 description: Chinese companion to the Lex Fridman Podcast, all 506 episodes with AI deep-reads, audio and transcripts
 min_os_version: 1.5.0
