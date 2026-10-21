@@ -1,0 +1,22 @@
+package: community.lazycat.app.lexfridman-cn
+version: 1.0.0
+name: Lex Fridman CN
+description: Chinese companion to the Lex Fridman Podcast, all 506 episodes with AI deep-reads, audio and transcripts
+min_os_version: 1.5.0
+homepage: https://github.com/joeseesun/lexfridman-cn
+author: joeseesun
+license: MIT
+locales:
+  zh:
+    name: Lex 播客中文站
+    description: Lex Fridman 播客中文导航，506 期全目录、AI 中文精读、官方音频与文稿
+  zh_CN:
+    name: Lex 播客中文站
+    description: Lex Fridman 播客中文导航，506 期全目录、AI 中文精读、官方音频与文稿
+  en:
+    name: Lex Fridman CN
+    description: Chinese companion to the Lex Fridman Podcast, all 506 episodes with AI deep-reads, audio and transcripts
+unsupported_platforms:
+  - ios
+  - android
+  - tvos

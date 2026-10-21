@@ -1,0 +1,7 @@
+application:
+  subdomain: lexfridman-cn
+  public_path:
+    - /
+  upstreams:
+    - location: /
+      backend: file:///lzcapp/pkg/content/
